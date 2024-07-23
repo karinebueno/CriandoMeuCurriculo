@@ -23,4 +23,4 @@ O projeto é composto pelos seguintes arquivos principais:
 2. Construção e Execução:
    - Utilize o comando docker compose up no terminal a partir do diretório do projeto para construir e iniciar a aplicação.
 3. Acesso:
-   -Acesse a aplicação no navegador através do endereço http://localhost:8001.
+   - Acesse a aplicação no navegador através do endereço http://localhost:8001.
